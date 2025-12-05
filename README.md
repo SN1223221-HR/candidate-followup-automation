@@ -1,4 +1,4 @@
-# GAS Recruitment Mailer
+# candidate-followup-automation
 
 スプレッドシートの候補者リストを読み込み、PDF資料を添付した「面談お礼 & 体験予約案内メール」を一括送信する Google Apps Script (GAS) ツールです。
 
